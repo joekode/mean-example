@@ -1,0 +1,24 @@
+{
+  "name": "simple-load",
+  "version": "1.0.0",
+  "authors": [
+    "Joe Wu <joe@joewu.co.uk>"
+  ],
+  "description": "simple angular app that consumes rest api",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "http://joewu.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.2"
+  }
+}
